@@ -24,3 +24,14 @@
     margin: 0px;
 }
 
+
+
+@media(min-width: 768px) {
+
+    #features {
+        flex-wrap: nowrap;
+    }
+
+
+}
+
