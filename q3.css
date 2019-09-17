@@ -38,15 +38,15 @@ body {
         display: flex;
     }
 
-.mail-form > input {
-    flex: 1;
-    margin-right: 10px;
-}
-.mail-form > button {
-    width: auto;
-    margin-left: 5px;
-}
+    .mail-form > input {
+        flex: 1;
+        margin-right: 10px;
+        margin-bottom: 0px;
+    }
+    .mail-form > button {
+        width: auto;
+        margin-left: 5px;
+    }
 
-.mail-form > input {
-    margin-bottom: 0px;
+
 }

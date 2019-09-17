@@ -41,7 +41,7 @@ body {
 @media(min-width: 768px) {
     
     .nav-links {
-        display: flex;
+        display: block;
         position: absolute;
         right: 20px;
     }

@@ -29,9 +29,14 @@
 @media(min-width: 768px) {
 
     #features {
-        flex-wrap: nowrap;
+        justify-content: space-between;
     }
 
+    .feature-card {
+        display: block;
+        flex: 1;
+        text-align: center;
+    }
 
 }
 
